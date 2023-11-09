@@ -57,5 +57,5 @@ const gradeLetters = grades.map(function (gradeValue) {
         return "E";
     }
 });
-
 console.log(gradeLetters);
+
